@@ -87,3 +87,65 @@ $CRASHVET is scaling globally with verified communities and multilingual moderat
 
 ### 🔒 Built by Warriors. Not Whales.  
 This isn’t hype. It’s deployment. Join the mission.
+## 🧬 CRASHOUT VET FILES™ – NFT PREVIEW SERIES
+
+Welcome to the official preview of the **CrashOut Vet Files™** — our limited-edition, lore-driven NFT series that brings cryptids, myths, and urban legends into the $CRASHVET resistance.
+
+Each specimen is presented as a **classified dossier**, embedded with unique on-chain utility (staking boosts, DAO voting multipliers, game perks, and more). These are the blacklisted assets they tried to erase — now redeployed on Solana.
+
+---
+
+### 🔗 IPFS Preview Access
+
+Our first two operatives are now live on IPFS for public preview:
+
+#### 001 – Bigfoot Vet  
+🔗 Image + Video:  
+`https://gateway.pinata.cloud/ipfs/bafybeigpq555sghlnfwfmxeprvrptyr6r3vcrabenfx6ufta4fjmedxpnfu`
+
+📁 Folder Contents:
+- `bigfoot_vet_card.png`
+- `bigfoot_vet_spin.mp4`
+
+🔍 Metadata JSON:  
+`https://gateway.pinata.cloud/ipfs/bafkreiem2suj7wmkwtpkcq77zzxkuexja3stxlxrcsbajmya4aem6rpyki`
+
+---
+
+#### 002 – Deep Ops Ness  
+🔗 Image + Video:  
+`https://gateway.pinata.cloud/ipfs/bafybeiedbqlqtx4pmqfahy2v3rffwcz5kndvrbnqppems3ujpzkz2pizyi`
+
+📁 Folder Contents:
+- `deep_ops_ness_card.png`
+- `deep_ops_ness_spin.mp4`
+
+🔍 Metadata JSON:  
+`https://gateway.pinata.cloud/ipfs/bafkreifw4h76ut3cbbgxz4ywhmtzkr4ggnxkeoyjueklwb7lqubuveaxsy`
+
+---
+
+> 🚧 Note: These are preview versions. Full minting and ecosystem integration will launch post-bonding in our Phase 3 roadmap. This preview is for demonstration and transparency.
+
+---
+
+### 📁 Preview Folder Structure
+
+```bash
+nft-previews/
+├── Specimen_001_BigfootVet/
+│   ├── bigfoot_vet_card.png
+│   ├── bigfoot_vet_spin.mp4
+│   └── bigfoot_vet.json
+├── Specimen_002_DeepOpsNess/
+│   ├── deep_ops_ness_card.png
+│   ├── deep_ops_ness_spin.mp4
+│   └── deep_ops_ness.json
+└── README.md
+```
+
+These assets are also stored on IPFS via [Pinata](https://www.pinata.cloud) and fully decentralized for future NFT minting.
+
+---
+
+**CrashOut Vet™ — They weren’t myths. They were missions.**
