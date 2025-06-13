@@ -1,0 +1,40 @@
+[
+  {
+    "specimen_id": "001",
+    "codename": "Bigfoot Vet",
+    "title": "Specimen_001_Bigfoot_Vet",
+    "description": "Jungle ops. Blacklisted by black ops. Now redeployed. First NFT in the CRASHOUT VET FILES™ series.",
+    "status": "Deployed",
+    "traits": {
+      "origin_zone": "Pacific Northwest",
+      "operation_type": "Recon & Recovery",
+      "threat_level": "Blackout",
+      "weapon_of_choice": "None (brute force)",
+      "rank": "Omega Clearance"
+    },
+    "media": {
+      "image_url": "https://gateway.pinata.cloud/ipfs/QmcmKU5yEYuZ52gvx4TtqZZJWiZ2GnxyRt3vhwZYbn59VC/Specimen_001_Bigfoot_Vet.png",
+      "video_url": "https://gateway.pinata.cloud/ipfs/QmcmKU5yEYuZ52gvx4TtqZZJWiZ2GnxyRt3vhwZYbn59VC/Specimen_001_Bigfoot_Vet_360.mp4"
+    },
+    "metadata_file": "https://raw.githubusercontent.com/CrashOutVet/NFT-Metadata/main/specimen_001.json"
+  },
+  {
+    "specimen_id": "002",
+    "codename": "Deep Ops Ness",
+    "title": "Specimen_002_Deep_Ops_Ness",
+    "description": "Aquatic recon. Abandoned during Cold War sonar tests. Second NFT in the CRASHOUT VET FILES™ series.",
+    "status": "Deployed",
+    "traits": {
+      "origin_zone": "Loch Ness, Scotland",
+      "operation_type": "Underwater Surveillance",
+      "threat_level": "Classified",
+      "weapon_of_choice": "Stealth Displacement",
+      "rank": "Blackout Clearance"
+    },
+    "media": {
+      "image_url": "https://gateway.pinata.cloud/ipfs/QmevoKktgRjo3Yb9cHULepKsoiHfX6T2c3omUUToFM8mHu/Specimen_002_Deep_Ops_Ness.png",
+      "video_url": "https://gateway.pinata.cloud/ipfs/QmevoKktgRjo3Yb9cHULepKsoiHfX6T2c3omUUToFM8mHu/Specimen_002_Deep_Ops_Ness_360.mp4"
+    },
+    "metadata_file": "https://raw.githubusercontent.com/CrashOutVet/NFT-Metadata/main/specimen_002.json"
+  }
+]
