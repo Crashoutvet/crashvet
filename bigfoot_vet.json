@@ -1,1 +1,15 @@
-Metadata placeholder
+{
+  "name": "Bigfoot Vet",
+  "symbol": "CRASHVET",
+  "specimen_id": "001",
+  "description": "Specimen 001 from the CRASHOUT VET FILES™. A cryptid turned combat veteran—deployed in the shadow wars.",
+  "image": "https://harlequin-naval-ape-468.mypinata.cloud/ipfs/bafybeigpq555sghlnfwfmxepvrprty6r3vcrabenfx6ufta4e2rf4tpuu4",
+  "animation_url": "https://harlequin-naval-ape-468.mypinata.cloud/ipfs/bafybeifk2xjxfblgme3yrqxpxkq57osqqb2m7qqcevevrlxhk3qgdjhtmu",
+  "edition": "1 of 1",
+  "attributes": [
+    { "trait_type": "Species", "value": "Sasquatch" },
+    { "trait_type": "Role", "value": "Recon Unit" },
+    { "trait_type": "Origin", "value": "Pacific Northwest" },
+    { "trait_type": "Status", "value": "Blacklisted" }
+  ]
+}

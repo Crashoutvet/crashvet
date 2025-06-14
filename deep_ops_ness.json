@@ -1,1 +1,15 @@
-Metadata placeholder
+{
+  "name": "Deep Ops Ness",
+  "symbol": "CRASHVET",
+  "specimen_id": "002",
+  "description": "Specimen 002 from the CRASHOUT VET FILES™. Recruited from the depths—stealth subaquatic strike expert.",
+  "image": "https://harlequin-naval-ape-468.mypinata.cloud/ipfs/bafybeie6spc2do6lrqqvmkkq4nql5hpwfxpvjmqchq7xq5n5sdvmbljr5a",
+  "animation_url": "https://harlequin-naval-ape-468.mypinata.cloud/ipfs/bafybeidceo6lkuxwffjzpsv2rjkyn57ff7vkod7rzxnmnqs5puvfy3kxra",
+  "edition": "1 of 1",
+  "attributes": [
+    { "trait_type": "Species", "value": "Aquatic Cryptid" },
+    { "trait_type": "Role", "value": "Deep Ops" },
+    { "trait_type": "Origin", "value": "Loch-class Facility" },
+    { "trait_type": "Status", "value": "Shadow Asset" }
+  ]
+}
